@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Benchmark.png</file>
+        <file>image/clear.png</file>
+        <file>image/listen.png</file>
+        <file>image/mode.png</file>
+        <file>image/open.png</file>
+        <file>image/plus.png</file>
+        <file>image/start.png</file>
+        <file>image/subtract.png</file>
+        <file>image/mode1.png</file>
+        <file>image/mode2.png</file>
+        <file>image/Benchmark1.png</file>
+        <file>image/Benchmark2.png</file>
+        <file>image/listen1.png</file>
+        <file>image/listen2.png</file>
+        <file>image/battery1.png</file>
+        <file>image/warning.png</file>
+    </qresource>
+</RCC>
